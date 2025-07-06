@@ -1,0 +1,6 @@
+"""
+requirements.txt - Project dependencies
+Save this as requirements.txt in your repository root
+"""
+requests==2.31.0
+python-dotenv==1.0.0
